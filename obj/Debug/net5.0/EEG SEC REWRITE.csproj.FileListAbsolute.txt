@@ -1,0 +1,16 @@
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\bin\Debug\net5.0\EEG SEC REWRITE.exe
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\bin\Debug\net5.0\EEG SEC REWRITE.deps.json
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\bin\Debug\net5.0\EEG SEC REWRITE.runtimeconfig.json
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\bin\Debug\net5.0\EEG SEC REWRITE.runtimeconfig.dev.json
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\bin\Debug\net5.0\EEG SEC REWRITE.dll
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\bin\Debug\net5.0\ref\EEG SEC REWRITE.dll
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\bin\Debug\net5.0\EEG SEC REWRITE.pdb
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\obj\Debug\net5.0\EEG SEC REWRITE.csproj.AssemblyReference.cache
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\obj\Debug\net5.0\EEG SEC REWRITE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\obj\Debug\net5.0\EEG SEC REWRITE.AssemblyInfoInputs.cache
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\obj\Debug\net5.0\EEG SEC REWRITE.AssemblyInfo.cs
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\obj\Debug\net5.0\EEG SEC REWRITE.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\obj\Debug\net5.0\EEG SEC REWRITE.dll
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\obj\Debug\net5.0\ref\EEG SEC REWRITE.dll
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\obj\Debug\net5.0\EEG SEC REWRITE.pdb
+C:\Users\LENOVO G50\Desktop\EEG SEC REWRITE\obj\Debug\net5.0\EEG SEC REWRITE.genruntimeconfig.cache
